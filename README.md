@@ -1,5 +1,4 @@
-# Mapty-App.github.io
-
+# Mapty-App
 The Mapty App is an interactive web application designed to track and log workouts using geolocation and map functionalities. The app allows users to add details about their outdoor activities, such as running or cycling, and visualize their workout locations on an interactive map. This project highlights advanced front-end development skills, such as working with third-party APIs, user input handling, and dynamic UI updates.
 
 Unique Features:
